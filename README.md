@@ -1,4 +1,4 @@
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA470&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6E30&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Prazer,+Bruna!+mas+pode+me+chamar+de+Brunitinha;Estou+cursando+Ciência+da+Computação;Atualmente+estudo+Desenvolvimento+de+Software+Back-end;Bem-Vindo!+(^-^))](https://git.io/typing-svg)
 
@@ -49,4 +49,4 @@
 </p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA470&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6E30&height=120&section=footer"/>
