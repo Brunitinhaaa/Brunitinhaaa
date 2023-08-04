@@ -14,7 +14,7 @@
  <br>
 <p>
 <div align="center">
-  <img  width="40%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/796e2f27-f148-4b18-aed3-4bf78d00f5af" align="right"></img>
+  <img  height="200" width="40%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/796e2f27-f148-4b18-aed3-4bf78d00f5af" align="right"></img>
 </div>
 
 <p>Cientista da Computação<br>Desenvolvedora de Software Back-end</p>
@@ -34,8 +34,8 @@
 
 <div align="center">
   <h1>Estudos</h1>
-  <img  width="50%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/be37149e-b8fb-4e1e-bef0-b2fe8a738b63" align="left"></img>
-  Atualmente me encontro estudando no curso de Desenvolvimento de Software com foco em Backend na Cubos Academy, com bolsa de 100% pelo programa ifood!
+  <img width="50%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/be37149e-b8fb-4e1e-bef0-b2fe8a738b63" align="left"></img>
+  <p align="right">Atualmente me encontro estudando no curso de Desenvolvimento de Software com foco em Backend na Cubos Academy, com bolsa de 100% pelo programa ifood!</p>
 </div>
 
 <div>
