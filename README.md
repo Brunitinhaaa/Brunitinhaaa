@@ -1,6 +1,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8DEEFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0E0E0&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Prazer,+Bruna!+mas+pode+me+chamar+de+Brunitinha;Estou+cursando+Ciência+da+Computação;Atualmente+estudo+Desenvolvimento+de+Software+Back-end;Bem-Vindo!+(^-^))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8DEEFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Prazer,+Bruna!+mas+pode+me+chamar+de+Brunitinha;Estou+cursando+Ciência+da+Computação;Atualmente+estudo+Desenvolvimento+de+Software+Back-end;Bem-Vindo!+(^-^))](https://git.io/typing-svg)
 
 <div>  
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Brunitinhaaa&show_icons=true&count_private=true&hide_border=true&title_color=99CAD7&icon_color=99CAD7&text_color=F0EFEE&bg_color=0d1117" alt="Brunitinha github stats" />
