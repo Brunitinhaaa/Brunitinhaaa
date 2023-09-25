@@ -4,7 +4,7 @@
 
 <div>  
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Brunitinhaaa&show_icons=true&count_private=true&hide_border=true&title_color=99CAD7&icon_color=99CAD7&text_color=F0EFEE&bg_color=0d1117" alt="Brunitinha github stats" />
-  
+    <img width="28%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunitinhaaa&layout=compact&hide_border=true&title_color=99CAD7&text_color=E0E0E0&bg_color=0d1117"/>
    <img align="right" width="150px" height="150px" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/37fe7af2-0b52-4b84-a904-086531cd4dc0"></img>
 </div>
   <br>
