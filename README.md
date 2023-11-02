@@ -34,8 +34,12 @@
 
 <div align="center">
   <h1>Estudos</h1>
-  <img width="50%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/be37149e-b8fb-4e1e-bef0-b2fe8a738b63" align="left"></img>
-  <p align="right">Atualmente me encontro estudando no curso de Desenvolvimento de Software com foco em Backend na Cubos Academy, com bolsa de 100% pelo programa ifood!</p>
+      <img width="50%" src = "https://github.com/Brunitinhaaa/Site-Jogo/assets/104976135/be37149e-b8fb-4e1e-bef0-b2fe8a738b63" align="left"></img>
+      <p align="right">Me formei no curso de Desenvolvimento de Software com foco em Backend na Cubos Academy, com bolsa de 100% pelo programa ifood em novembro de 2023</p>
+   <h1></h1>
+      <img width="50%" src = "https://cdn.discordapp.com/attachments/989001633071501384/1169541589174059059/20220823085927663_picture.png?ex=6555c77b&is=6543527b&hm=401b43b1961d6396dc0fc4d5de82b6eed8b2b3b6070ae7e4babd7e4a7898f518&" align="right"></img>
+      <p align="left">Atualmente me encontro estudando na Rocketseat, fazendo novos projetos e aprendendo muito na formação fullstack</p>
+  <br><br><br>
 </div>
 
 <div>
